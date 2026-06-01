@@ -1,0 +1,1 @@
+{"timestamp":"2025-01-15T09:01:00Z","level":"INFO","logger":"bot.client","message":"Order placed","orderId":3257813948,"status":"NEW","executedQty":"0.000","price":"44000.00"}
